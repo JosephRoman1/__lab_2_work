@@ -1,3 +1,10 @@
+
+Lab 3
+
+<img width="1248" alt="Lab3" src="https://user-images.githubusercontent.com/84354412/218679123-12f92e23-b271-4098-9b98-f9ebc9dfb0c5.png">
+
+
+
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 
 # Hyperledger Fabric Samples
